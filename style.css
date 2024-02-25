@@ -2,13 +2,16 @@
   margin: 0;
   padding: 0;
 }
+
+/* border on the whole body */
+
 .container {
   border: 10px solid #1d1e4c;
   background-color: #e5e5fd;
   height: 100%;
-  /* width: 98.5%; */
   padding: 100px 225px 0px 225px;
 }
+
 .heading1 {
   height: 320px;
   width: 100%;
@@ -23,23 +26,6 @@
   height: 320px;
   width: 300px;
   border-radius: 50%;
-  /* background-color: aqua; */
-  /* background-image: url("apj.jpg"); */
-  background-size: cover;
-}
-/* .name {
-  position: relative;
-  top: 0px;
-  right: 0px;
-} */
-h1 {
-  font-size: 50px;
-  font-weight: bold;
-  color: #1d1e4c;
-}
-h2 {
-  font-size: 30px;
-  text-align: end;
 }
 h4 {
   font-size: 70px;

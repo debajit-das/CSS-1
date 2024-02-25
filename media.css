@@ -1,0 +1,32 @@
+@media (max-width: 900px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 30px;
+  }
+
+  .heading1 {
+    height: 320px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+    flex-wrap: nowrap;
+    align-content: normal;
+    align-items: center;
+  }
+
+  .image img {
+    height: 272px;
+    width: 255px;
+    border-radius: 50%;
+  }
+
+  h4 {
+    font-size: 40px;
+    font-weight: 400;
+  }
+}
