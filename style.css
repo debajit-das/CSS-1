@@ -19,12 +19,12 @@
   justify-content: space-between;
   align-items: flex-end;
 }
-.image {
+.image img {
   height: 320px;
   width: 300px;
   border-radius: 50%;
   /* background-color: aqua; */
-  background-image: url("apj.jpg");
+  /* background-image: url("apj.jpg"); */
   background-size: cover;
 }
 /* .name {
